@@ -1,0 +1,12 @@
+ @media screen and (max-width: 600px){
+     .h-primary{
+         font-size:1.2rem
+     }
+
+     .cart-width{
+         width: 100%;
+     }
+     .mobile-image{
+         display: none;
+     }
+ }
